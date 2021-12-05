@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/-csc642-form-assignment/static/css/main.d4a659b1.chunk.css",
+    "main.js": "/-csc642-form-assignment/static/js/main.2767ebae.chunk.js",
+    "main.js.map": "/-csc642-form-assignment/static/js/main.2767ebae.chunk.js.map",
+    "runtime-main.js": "/-csc642-form-assignment/static/js/runtime-main.ef0f1ebd.js",
+    "runtime-main.js.map": "/-csc642-form-assignment/static/js/runtime-main.ef0f1ebd.js.map",
+    "static/js/2.3ec2b5bb.chunk.js": "/-csc642-form-assignment/static/js/2.3ec2b5bb.chunk.js",
+    "static/js/2.3ec2b5bb.chunk.js.map": "/-csc642-form-assignment/static/js/2.3ec2b5bb.chunk.js.map",
+    "static/js/3.7bcf5b9c.chunk.js": "/-csc642-form-assignment/static/js/3.7bcf5b9c.chunk.js",
+    "static/js/3.7bcf5b9c.chunk.js.map": "/-csc642-form-assignment/static/js/3.7bcf5b9c.chunk.js.map",
+    "index.html": "/-csc642-form-assignment/index.html",
+    "static/css/main.d4a659b1.chunk.css.map": "/-csc642-form-assignment/static/css/main.d4a659b1.chunk.css.map",
+    "static/js/2.3ec2b5bb.chunk.js.LICENSE.txt": "/-csc642-form-assignment/static/js/2.3ec2b5bb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ef0f1ebd.js",
+    "static/js/2.3ec2b5bb.chunk.js",
+    "static/css/main.d4a659b1.chunk.css",
+    "static/js/main.2767ebae.chunk.js"
+  ]
+}
